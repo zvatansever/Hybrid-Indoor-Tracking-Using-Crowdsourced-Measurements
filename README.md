@@ -2,7 +2,7 @@
 
 Matlab codes for "Hybrid-Indoor-Tracking-Using-Crowdsourced-Measurements"
 
-###If you use the code, please cite or mention our work:
+### If you use the code, please cite or mention our work:
 ```sh
 @INPROCEEDINGS{8038447, 
 author={Z. {Vatansever} and M. {Brandt-Pearce}}, 
